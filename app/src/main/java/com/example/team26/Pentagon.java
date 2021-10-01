@@ -1,6 +1,5 @@
 package com.example.team26;
 
-public class pentagon extends Shape{
+public class Pentagon extends Shape{
     int sideLength;
-    String color = "orange";
 }
